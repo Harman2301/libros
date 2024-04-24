@@ -1,0 +1,25 @@
+{
+  "libros": [
+    {
+      "titulo": "El Señor de los Anillos",
+      "autor": "J.R.R. Tolkien",
+      "editorial": "Allen & Unwin",
+      "anoPublicacion": 1954,
+      "valoracion": 5
+    },
+    {
+      "titulo": "1984",
+      "autor": "George Orwell",
+      "editorial": "Secker & Warburg",
+      "anoPublicacion": 1949,
+      "valoracion": 4.5
+    },
+    {
+      "titulo": "Cien Años de Soledad",
+      "autor": "Gabriel García Márquez",
+      "editorial": "Harper & Row",
+      "anoPublicacion": 1967,
+      "valoracion": 5
+    }
+  ]
+}
